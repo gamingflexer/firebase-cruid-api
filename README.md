@@ -8,4 +8,7 @@ CRUID API - FIREBASE
 - SAVE DATA TO DATABASE
 
 
+  `pip install -p requirments.txt`
+  `flask app.py`
+
 [![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
